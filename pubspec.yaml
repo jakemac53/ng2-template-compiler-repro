@@ -1,0 +1,7 @@
+name: ng_model_repro
+dependencies:
+  angular2: any
+transformers:
+- angular2:
+    entry_points:
+    - web/index.dart
